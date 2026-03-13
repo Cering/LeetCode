@@ -1,0 +1,10 @@
+'"abc"\n"pqr"
+"ab"\n"pqrs"
+"abcd"\n"pq"
+"a"\n"b"
+"a"\n"xyz"
+"xyz"\n"a"
+"aaaa"\n"bbbb"
+"wxyz"\n"mno"
+"a"\n"bcdefghijklmnopqrst"
+"bcdefghijklmnopqrst"\n"a"'
