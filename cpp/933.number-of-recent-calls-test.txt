@@ -1,0 +1,6 @@
+["RecentCounter","ping","ping","ping","ping"]\n[[],[1],[100],[3001],[3002]]
+["RecentCounter","ping","ping","ping","ping","ping"]\n[[],[1],[3000],[3001],[6000],[6001]]
+["RecentCounter","ping","ping","ping","ping","ping","ping"]\n[[],[10],[3010],[3011],[6010],[6011],[9011]]
+["RecentCounter","ping","ping","ping","ping","ping","ping","ping"]\n[[],[1],[2],[3],[4],[3000],[3001],[3002]]
+["RecentCounter","ping","ping","ping","ping"]\n[[],[999999990],[999999995],[999999999],[1000000000]]
+["RecentCounter","ping","ping","ping","ping","ping","ping"]\n[[],[1],[1000],[2000],[3000],[4000],[7001]]
