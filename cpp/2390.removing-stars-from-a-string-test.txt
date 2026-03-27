@@ -1,0 +1,10 @@
+'"leet**cod*e"
+"erase*****"
+"a*"
+"abc***"
+"abc**d*e"
+"ab**c*d*"
+"xy*z*"
+"abcdefghijklmnopqrstuvwxyzz**************************"
+"a*b*c*d*e*f*g*h*i*j*"
+"zz*yy*xx*ww*vv*uu*tt*ss*"'
