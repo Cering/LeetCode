@@ -116,6 +116,7 @@ public:
                 need_print = false;
             }
             // 层序遍历下一层节点，按照从右至左的顺序记至队列 
+            if(node->right)
                 node_queue.push(node->right);
             if(node->left)
                 node_queue.push(node->left);
